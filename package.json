@@ -1,0 +1,22 @@
+{
+  "name": "sip-calculator",
+  "version": "1.0.0",
+  "description": "A tool to draw a graph that represents stock market and calculate the returns on systematic investment plan",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "css-loader": "^6.10.0",
+    "sass": "^1.71.1",
+    "sass-loader": "^14.1.1",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
